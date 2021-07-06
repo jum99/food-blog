@@ -9,6 +9,10 @@ h1{
 h2{
     font-size: 40px;
 }
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
 .orange-color{
     color: orange;
 }
@@ -45,4 +49,9 @@ h2{
 }
 .recipe-item img{
     width: 100%;
+}
+footer{
+    background: black;
+    text-align: center;
+    color: #fff;
 }
