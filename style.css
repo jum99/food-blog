@@ -12,3 +12,37 @@ h2{
 .orange-color{
     color: orange;
 }
+
+.delicious-recipes{
+    text-align: center;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.background-image{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+}
+.recipe-item{
+    width: 33%;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px gray;
+    border: 20px solid whitesmoke;
+}
+.recipe-item img{
+    width: 100%;
+}
